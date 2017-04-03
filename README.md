@@ -3,5 +3,6 @@ and random stat generation. also added to hit chances because auto hitting is no
 
 to run:
 
-npm install readline_sync
-node app.js
+* npm install readline_sync
+
+* node app.js
